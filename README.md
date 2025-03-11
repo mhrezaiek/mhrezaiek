@@ -5,10 +5,10 @@
 🎓 **Master of Science - Computer Science** @ Simon Fraser University, Vancouver, BC  
 💼 **Machine Learning Engineer** @ MARZ (Monsters Aliens Robots Zombies) | AI Researcher  
 📍 **Toronto, Canada**  
-📫 **[LinkedIn](https://www.linkedin.com/in/mohammad-hossein-rezaie-46709b126/)** | **[GitHub](https://github.com/mhrezaiek/)** | **[Google Scholar](https://scholar.google.ca/citations?user=hO01mTUAAAAJ&hl=en)**  
+📫 **[LinkedIn](https://www.linkedin.com/in/mohammad-hossein-rezaie-46709b126/)** | **[GitHub](https://github.com/mhrezaiek/)** |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true)
+
 
 
 ---
