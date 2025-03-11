@@ -15,7 +15,6 @@
 
 
 ## 🛠️ Technical Skills
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 
 - **Programming Languages:** Python, C, Java, SQL, JavaScript (React.js, Node.js, D3.js)
