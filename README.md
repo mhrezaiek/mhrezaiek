@@ -8,6 +8,8 @@
 📫 **[LinkedIn](https://www.linkedin.com/in/mohammad-hossein-rezaie-46709b126/)** | **[GitHub](https://github.com/mhrezaiek/)** |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_title=true)
+
 
 
 
