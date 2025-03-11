@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile! 🚀
+ 
 
 ## Mohammad Hossein Rezaie | AI & Machine Learning Engineer | Researcher
 
@@ -6,6 +6,8 @@
 💼 **Machine Learning Engineer** @ MARZ (Monsters Aliens Robots Zombies) | AI Researcher  
 📍 **Toronto, Canada**  
 📫 **[LinkedIn](https://www.linkedin.com/in/mohammad-hossein-rezaie-46709b126/)** | **[GitHub](https://github.com/mhrezaiek/)** | **[Google Scholar](https://scholar.google.ca/citations?user=hO01mTUAAAAJ&hl=en)**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
 ---
 
